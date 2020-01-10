@@ -1,6 +1,9 @@
 # MadboxTest
 ## Test made for Madbox interview
 
+## Controls
+	You can play using W or X(Ps4 controller) or A(Xbox controller)
+
 ## Answers:
 
 ### The time it took you to perform the exercise: 
